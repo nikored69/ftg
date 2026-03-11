@@ -1,1 +1,0 @@
-console.log("🚀 Telegram данные:", window.Telegram?.WebApp?.initData);
